@@ -1,4 +1,4 @@
-Predicting time series_
+Predicting time series
 - develop 3 approaches for predicting the next point in a time series, the next 3 points, the next 10 points (with uncertainties if the algorithm supports this)
 - the initial approach should use Gaussian Processes as a starting point
 - one of the approaches should use a neural network approach
